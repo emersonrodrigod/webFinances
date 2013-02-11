@@ -1,0 +1,16 @@
+#header {
+    height: 100px;
+}
+
+.despesa {
+    color: #cc0000;
+}
+
+.detalhe-saldo {
+    background: #f1f1f1 !important;
+    color: #8e8e8e;
+}
+
+.receita {
+    color: #51a451;
+}

@@ -1,0 +1,3 @@
+   Root User adminMgv7GCX
+   Root Password IQ1JLuNcvJA2
+   Database Name financeiro
